@@ -144,3 +144,13 @@
 .equals:hover::after{
     background:rgb(196, 56, 5);
 }
+
+.inverse, .percent {
+    overflow:hidden;
+}
+
+.js, .html {
+    height: 60%;
+    width: auto;
+    border-radius: 25%;
+}
